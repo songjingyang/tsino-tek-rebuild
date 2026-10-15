@@ -1,0 +1,19 @@
+# TSINO-TEK
+
+> Public Chinese/English product site for Qingzheng Yuanhua (TSINO-TEK), specializing in high-speed motor drives and magnetic-bearing control.
+
+## Sections
+
+- [Home](/)
+- [Products](/#products)
+- [Applications](/#applications)
+- [Manufacturing](/#factory)
+- [About](/#about)
+- [News](/#news)
+- [Qualifications](/#qualifications)
+- [Contact](/#contact)
+
+## Contact
+
+- [Email TSINO-TEK](mailto:info@tsino-tek.com)
+- [Call TSINO-TEK](tel:01065400661)
